@@ -62,3 +62,13 @@
 //   numberprintedonconsole += number + " ";
 // }
 // console.log(numberprintedonconsole);
+
+// function printMovieName () {
+//     let myfavoritemovie="Saving Private Ryan";
+// return myfavoritemovie;
+// }
+
+// let moviechoice = printMovieName
+// console.log(moviechoice)
+
+
